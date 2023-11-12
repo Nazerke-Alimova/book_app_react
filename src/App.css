@@ -1,3 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  background-color: #7694f5;
+  color: white;
+
+  font-family: "Comfortaa", cursive;
+}
+
 .App {
   text-align: center;
 }

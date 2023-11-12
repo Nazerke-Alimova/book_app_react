@@ -1,0 +1,15 @@
+.search_btn {
+  box-sizing: border-box;
+  outline: none;
+  border-radius: 3px;
+  text-align: center;
+  cursor: pointer;
+  padding: 0px 30px;
+  font-size: 16px;
+  background: rgb(222, 102, 102);
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  border: 0px;
+  height: 34px;
+  line-height: 34px;
+}

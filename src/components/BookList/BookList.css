@@ -1,0 +1,8 @@
+.book_list {
+  display: flex;
+  margin: 0px auto;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 70%;
+  gap: 10px;
+}

@@ -1,0 +1,25 @@
+.search_section {
+  display: flex;
+  margin: 0px auto;
+  justify-content: center;
+  width: 1200px;
+  height: 70vh;
+}
+.search_container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin: 0px auto;
+}
+.search_title {
+  font-weight: bold;
+  margin-top: 15px;
+  color: rgb(255, 255, 255);
+  font-size: 80px;
+  width: 100%;
+}
+
+.search_img img {
+  width: 700px;
+}

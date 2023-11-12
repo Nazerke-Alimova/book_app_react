@@ -1,0 +1,13 @@
+.wishList_main {
+  margin: 20px 0px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.wishList_main img {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 40px;
+}
